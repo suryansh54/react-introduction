@@ -63,3 +63,6 @@
 
 ### React Versions
 - https://reactjs.org/versions/
+
+### React vs Angular
+- https://stxnext.com/blog/2019/07/12/react-vs-angular-comparison/
