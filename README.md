@@ -18,8 +18,8 @@
 ### Prerequisites
 - HTML5
 - CSS3
-- JavaScript fundamentals (this keyword, filter, map and reduce)
-- ES6 (Let & Const, Arrow functions, template literals, default parameters, object literals, rest and spread operators and destructuring assignment)
+- JavaScript fundamentals (this keyword, Modules, filter, map and reduce)
+- ES6 (Let & Const, Arrow functions, template literals, default parameters, object literals, rest and spread operators, destructuring assignment)
 
 ### Content
 - Fundamentals
